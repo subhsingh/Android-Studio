@@ -1,0 +1,33 @@
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   Copyright 2026 Megha Dey
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+   ===========================================================================
+
+   NOTICE: Suraksha Kavach - Women's Safety Application
+   
+   This software was developed to address women's safety concerns in alignment
+   with United Nations Sustainable Development Goal 5: Gender Equality.
+   
+   The software includes emergency response features including GPS tracking,
+   SMS alerts, and emergency calling capabilities. All location and personal
+   data is stored locally on the device and is never transmitted to external
+   servers without explicit user action.
+   
+   For questions or concerns, please refer to the project documentation.
+   
+   ALL RIGHTS RESERVED © 2026 Megha Dey
